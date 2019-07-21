@@ -279,16 +279,16 @@ export default {
       height: 62px;
       margin: 30px 48px;
       margin-right: 30px;
-      border: 1px solid #999;
+      border: 1px solid #ccc;
       border-radius: 10px;
-      font-size: 20px;
+      font-size: 17px;
       padding: 0 10px;
       outline: none;
     }
     button {
       width: 157px;
       height: 62px;
-      border: 1px solid #999;
+      border: 1px solid #ccc;
       border-radius: 10px;
       outline: none;
       background-color: #ffc600;
